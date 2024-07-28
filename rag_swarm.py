@@ -35,7 +35,7 @@ persist_directory = 'fiance_agent_rag'
 vectorstore = Chroma(persist_directory=persist_directory, embedding_function=custom_embedding_model)
 
 # Specify the file path to the PDF document
-file_path = r"C:\Projects\llm\rag_project\document.pdf"
+file_path = r"document.pdf"
 if not os.path.exists(file_path):
     raise FileNotFoundError(f"File not found: {file_path}")
 
