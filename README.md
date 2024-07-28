@@ -15,7 +15,7 @@
 | Framwork | Time |
 |----------|----------|
 | Autogen  | 12.68s  |
-| Crewai   | 17.76   | 
-| Langchain  | 12.18  | 
-| Llamaindex  | 12.44  | 
-| Swarms  | 17.30  |
+| Crewai   | 17.76s   | 
+| Langchain  | 12.18s  | 
+| Llamaindex  | 12.44s  | 
+| Swarms  | 17.30s  |
