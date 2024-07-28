@@ -9,6 +9,6 @@
 
 |          | Prompt Template    | Model    |
 |----------|--------------------|----------|
-| Fixed    | Use the following context pieces to answer the question at the end. If you don't know the answer, just say you don't know, don't try to make up an answer. Give answers in great detail. | Ver 1.2  |
+| Fixed    | Use the following context pieces to answer the question at the end.<br> If you don't know the answer, just say you don't know, don't try to make up an answer. Give answers in great detail. |gpt-3.5-turbo|
 
 
