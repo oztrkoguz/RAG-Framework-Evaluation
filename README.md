@@ -12,3 +12,10 @@
 | Fixed | Use the following context pieces to answer the question at the end.<br> If you don't know the answer, just say you don't know, don't try to make up an answer.<br> Give answers in great detail. |gpt-3.5-turbo|BAAI/bge-small-en-v1.5|Chroma|1000|100|
 
 
+| Framwork | Time |
+|----------|----------|
+| Autogen  | 12.68s  |
+| Crewai   | 17.76   | 
+| Langchain  | 12.18  | 
+| Llamaindex  | 12.44  | 
+| Swarms  | 17.30  |
