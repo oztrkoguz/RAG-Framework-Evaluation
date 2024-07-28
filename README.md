@@ -19,3 +19,14 @@
 | Langchain  | 12.18s  | + |
 | Llamaindex  | 12.44s  | - |
 | Swarms  | 17.30s  | + |
+
+
+### Usage
+```
+git clone https://github.com/oztrkoguz/RAG-Framework-Evaluation.git
+#autogen
+python rag_autogen.py
+#crewai
+python rag_crewai.py
+
+```
