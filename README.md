@@ -1,3 +1,3 @@
 ## RAG-Framework-Evaluation
 
-![workflow](https://github.com/user-attachments/assets/49b25071-9469-4078-a2f9-7b976c26d80c)
+![workflow2](https://github.com/user-attachments/assets/c766cd45-2b55-41db-9929-a6c0d1fae8e7)
