@@ -24,9 +24,15 @@
 ### Usage
 ```
 git clone https://github.com/oztrkoguz/RAG-Framework-Evaluation.git
+cd RAG-Framework-Evaluation
 #autogen
 python rag_autogen.py
 #crewai
 python rag_crewai.py
-
+#langchain
+python rag_langchain.py
+#llamaindex
+python rag_llamaindex.py
+#swarms
+python rag_swarm.py
 ```
