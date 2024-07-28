@@ -4,14 +4,11 @@
 
 #### This project aims to compare different Retrieval-Augmented Generation (RAG) frameworks. Using the same document and model, we evaluate LlamaIndex, Autogen, Langchain, Swarm and Crewai frameworks in terms of speed, accuracy and performance. These evaluations will help determine which framework is more effective in certain scenarios.
 
-|          | Prompt Template    | Model    |
-|----------|--------------------|----------|
-| Fixed    | Use the following context pieces to answer the question at the end.
-If you don't know the answer, just say you don't know, don't try to make up an answer. Give answers in great detail.            | Ver 1.2  |
+
 
 
 |          | Prompt Template    | Model    |
 |----------|--------------------|----------|
-| Fixed    | Use the following context pieces to answer the question at the end. <br><br> If you don't know the answer, just say you don't know, don't try to make up an answer. <br><br> Give answers in great detail. | Ver 1.2  |
+| Fixed    | Use the following context pieces to answer the question at the end. If you don't know the answer, just say you don't know, don't try to make up an answer. Give answers in great detail. | Ver 1.2  |
 
 
